@@ -18,7 +18,7 @@ So in our Project, We suggest "E2E method" : Modifiy latent space and apply to s
 
 
 # How to use
-1. Download JoJoGAN (https://github.com/mchong6/JoJoGAN)
+1. Download JoJoGAN (https://github.com/mchong6/JoJoGAN) and checkpoints
 2. get Our Main.py and put into JoJoGAN Folder
 3. Define image and style
 4. Control with alphas then changed images will goes to /outputs folder
