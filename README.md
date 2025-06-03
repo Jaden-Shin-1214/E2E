@@ -24,7 +24,7 @@ So in our Project, We suggest "E2E method" : Modifiy latent space and apply to s
 4. Define image and style
 5. Control with alphas then changed images will goes to /outputs folder
 
-#Acknowledgments
-This code borrows from JOJOGAN by mchong6, StyleGAN2 by rosalinity, e4e.
+# Acknowledgments
 
+This code borrows from JOJOGAN by mchong6, StyleGAN2 by rosalinity, e4e.
 
