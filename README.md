@@ -20,8 +20,9 @@ So in our Project, We suggest "E2E method" : Modifiy latent space and apply to s
 # How to use
 1. Download JoJoGAN (https://github.com/mchong6/JoJoGAN) and checkpoints
 2. get Our Main.py and put into JoJoGAN Folder
-3. Define image and style
-4. Control with alphas then changed images will goes to /outputs folder
+3. Generate eye_dataset folder and put two npy files into folder (This is Normal vector for eye gaze)
+4. Define image and style
+5. Control with alphas then changed images will goes to /outputs folder
 
 #Acknowledgments
 This code borrows from JOJOGAN by mchong6, StyleGAN2 by rosalinity, e4e.
