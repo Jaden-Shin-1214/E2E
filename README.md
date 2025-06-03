@@ -1,8 +1,8 @@
 # E2E
 Eye-gaze change with latent space editing and masking based on JoJoGAN
-<img width="581" alt="image" src="https://github.com/user-attachments/assets/27cecff5-35cd-47fe-a838-33eb8db0ab86" />
-
+![Suji](https://github.com/user-attachments/assets/6b650c58-4775-4e13-a97d-e5b1077b2bcc)
 # Introduction
+
 Many StyleGAN  have Eye-gaze problems which follows styles eye not contents eye. Many previous works are focus on modifing models However, this is heavy task and different as Style changes.
 So in our Project, We suggest "E2E method" : Modifiy latent space and apply to style GAN. This is simple and easy-to-use to modify eye and find content-like eyes
 
