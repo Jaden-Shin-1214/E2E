@@ -3,7 +3,7 @@ Eye-gaze change with latent space editing and masking based on JoJoGAN
 ![Suji_multi_interp](https://github.com/user-attachments/assets/3dc9d4af-bbad-42d5-893a-345f7aaa67a4)
 
 # Introduction
-![LoveSuji](https://github.com/user-attachments/assets/81cb35bd-f3a8-4143-901e-bb31da815661)
+<img src="https://github.com/user-attachments/assets/81cb35bd-f3a8-4143-901e-bb31da815661" width="400"/>
 
 
 Many StyleGAN  have Eye-gaze problems which follows styles eye not contents eye. Many previous works are focus on modifing models However, this is heavy task and different as Style changes.
